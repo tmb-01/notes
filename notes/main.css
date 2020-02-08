@@ -1,0 +1,13 @@
+.deleted{
+    position: absolute;
+    right: -9px;
+    top: -7px;
+    background-color: red;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    color: #ffffff;
+    text-align: center;
+    cursor: pointer;
+}
+
